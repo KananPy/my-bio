@@ -1,0 +1,46 @@
+.head1 {
+    
+    margin-bottom: 15px;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    height: 200px;
+    width: 100%;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    background: #359878;
+    
+}
+
+.head2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.head3 {
+    margin-top: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list{
+    text-align: center;
+    font-size: 35px;
+    border-style: solid;
+    border-width: 5px;
+    list-style-position: inside;
+}
